@@ -294,7 +294,7 @@ button:hover{
         gap: 40px;
     }
     .cart{
-        width: 80%;
+        width: 100%;
     }
     .footer{
         flex-direction: column;
